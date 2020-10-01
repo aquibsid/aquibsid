@@ -20,6 +20,6 @@
 
 [![Mashiyat's github stats](https://github-readme-stats.vercel.app/api?username=aquibsid&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/)
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mashiyathussain2&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/mashiyathussain2/COVID19Py)-->
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mashiyathussain2&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/aquibsid/COVID19Py)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashiyathussain2&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/mashiyathussain2/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibsid&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/mashiyathussain2/)
