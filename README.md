@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on any Open Source Project involving Data Science and Development.
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Photographer/Social Activist
 ### Things I am passionate about:
 - Data Science :computer:
 - Open source :octocat:
