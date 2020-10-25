@@ -22,4 +22,4 @@
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aquibsid&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/aquibsid-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibsid&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/aquibsid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibsid&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/aquibsid)
