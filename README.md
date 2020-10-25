@@ -1,25 +1,26 @@
-### Hello There! <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi :open_hands: 
+### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
 
-<!--
-**aquibsid/aquibsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Dev Community
+- Owner of [RoadMaps](https://github.com/aquibsid/Roadmaps) - **Feel free to Contribute!**
+- Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
 
-- 🔭 I’m currently working on Data Science and Android Development.
-- 🌱 I’m currently learning .
-- 👯 I’m looking to collaborate on any Open Source Project involving Data Science and Development.
-- 💬 Ask me about anything
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Photographer/Social Activist
-### Things I am passionate about:
-- Data Science :computer:
-- Open source :octocat:
-- Android :iphone:
+## Tech Stack
+- 🌱 I’m currently working on a Android Project
+- **Programming Language -** C , Python, Dart , Kotlin 
+- **Framework -** Selinium 
+- **Voice Assistant -** Actions on Google
+- 💬 Ask me about anything related to tech!
+- 📫 Reach out to me :v: <br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aquib-siddiquee-388b64162/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/siddiqueeaquib)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/aquib597)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/aquib.sid/)
+[<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/aquibsid)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aquib-siddiquee-388b64162)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aquib597)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aquib.sid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddiqueeaquib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@aquibsiddiquee597)  
+<img src="https://github-readme-stats.vercel.app/api?username=aquivsid&count_private=true&show_icons=true&title_color=FF5733&icon_color=FFBB33&text_color=C0C0C0&bg_color=26466D&include_all_commits=true&hide_rank=true" width="90%" height="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquibsid&langs_count=16" width="40%" height="100%"/>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+### For More Information about me, Visit [Here](https://aquibsid.github.io/). :smile:
 
-[![Aquib's github stats](https://github-readme-stats.vercel.app/api?username=aquibsid&show_icons=true&theme=vue-dark)](https://github.com/aquibsid/)
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aquibsid&repo=COVID19Py&show_icons=true&theme=vue-dark)](https://github.com/aquibsid-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibsid&show_icons=true&theme=vue-dark&hide=html&layout=compact)](https://github.com/aquibsid)
