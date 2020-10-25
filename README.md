@@ -1,5 +1,5 @@
 ## Hi :open_hands: 
-### This is Shoaib Rayeen. I am a :computer: Software Development Engineer at Airtel Africa. 
+### This is Aquib Siddiquee.  
 
 ## Dev Community
 - Owner of [RoadMaps](https://github.com/aquibsid/Roadmaps) - **Feel free to Contribute!**
