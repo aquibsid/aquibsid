@@ -7,7 +7,7 @@
 
 ## Tech Stack
 - 🌱 I’m currently freelancing
-- Have Created a team 
+- Have Created a team who can create and develop websites/apps/ios apps
 - **Programming Language -** C , Python, Dart , Kotlin 
 - **Framework -** Selinium 
 - **Voice Assistant -** Actions on Google
