@@ -8,7 +8,7 @@
 ## Tech Stack
 - 🌱 I’m currently a Fresher Looking For a Fresher Role
 
-- **Programming Language -** C , Python, Dart , Kotlin 
+- **Programming Language -** JavaScript , Python 
 - **Framework -** Selinium 
 - **Voice Assistant -** Actions on Google
 - 💬 Ask me about anything related to tech!
