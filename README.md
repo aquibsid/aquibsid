@@ -13,7 +13,7 @@
 - **Voice Assistant -** Actions on Google
 - 💬 Ask me about anything related to tech!
 - 📫 Reach out to me :v: <br>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aquib-siddiquee-388b64162/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/md-aquib-siddiquee-388b64162/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/siddiqueeaquib)
 [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://www.facebook.com/aquib597)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/aquib.sid_/)
