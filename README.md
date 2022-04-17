@@ -1,13 +1,13 @@
 ## Hi :open_hands: 
-### This is Aquib Siddiquee.  
+### This is Mohammad Aquib Siddiquee.  
 
 ## Dev Community
 - Owner of [RoadMaps](https://github.com/aquibsid/Roadmaps) - **Feel free to Contribute!**
 - Member at [Facebook Developer Circle](https://www.facebook.com/groups/DevCDelhiNCR), Delhi
 
 ## Tech Stack
-- 🌱 I’m currently freelancing
-- Have Created a team who can create and develop websites/apps/ios apps
+- 🌱 I’m currently a Fresher Looking For a Fresher Role
+
 - **Programming Language -** C , Python, Dart , Kotlin 
 - **Framework -** Selinium 
 - **Voice Assistant -** Actions on Google
